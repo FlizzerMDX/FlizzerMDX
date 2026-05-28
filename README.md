@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm a developer from Switzerland<br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm a developer from Switzerland 🇨🇭<br>In my free time I develop a discord Bot 🤖</p>
 
 ###
 
