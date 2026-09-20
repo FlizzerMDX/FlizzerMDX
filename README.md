@@ -26,7 +26,12 @@
 
 ###
 
-<p align="left">I'm a developer from Switzerland 🇨🇭<br>In my free time I develop a discord Bot 🤖</p>
+I'm a developer from Switzerland 🇨🇭<br/>
+In my free time I develop :
+- a discord Bot using **discord.py** 🤖
+- some websites using **next.js** 🌐
+
+Read more in my [Website](https://flizzermdx.com)
 
 ###
 
